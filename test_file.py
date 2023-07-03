@@ -1,4 +1,6 @@
 import itertools
 
-#Let's goooooooooo
+for i in range(10):
+    d = []
+    
 print('Hello')
