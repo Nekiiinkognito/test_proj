@@ -1,5 +1,4 @@
 import itertools
 
-#Wtf
-print('Another')
+#Let's goooooooooo
 print('Hello')
