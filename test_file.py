@@ -1,4 +1,4 @@
 import itertools
 
-#Let's goooooooooo
+#Let's go
 print('Hello')
